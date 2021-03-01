@@ -5,7 +5,6 @@ En este proyecto de la asignatura Visión por Computador realizamos un proyecto 
 Autores: [Álvaro Beltrán Camacho] y [Sergio Cabezas Gónzalez de Lara]
 
 
-
 [kaggle]: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 [memoria]: https://github.com/drumalv/Brain-Tumor-Detector/blob/main/MemoriaProyectoVC.pdf
 
